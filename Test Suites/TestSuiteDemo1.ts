@@ -14,22 +14,22 @@
    <testCaseLink>
       <guid>9035a90c-4f32-4e5c-9cc3-522282461ece</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Demo/EnvProfilesDemo</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>1ac80942-e077-425b-a2dc-a02040131b5a</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
-      <testCaseId>Test Cases/Demo/RecordModeDemo</testCaseId>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Latihan 1/RecordModeDemo</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>6b87e464-d1a5-4cbd-b336-5ed91191946e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>false</isRun>
-      <testCaseId>Test Cases/Demo/ScriptModeDemo</testCaseId>
+      <testCaseId>Test Cases/Latihan 1/ScriptModeDemo</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
